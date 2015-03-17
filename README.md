@@ -10,3 +10,6 @@ Various desktop clients for Git:
 Windows: https://windows.github.com/
 
 Mac OSX: https://mac.github.com/
+
+
+Using Git in R/RStudio: http://r-pkgs.had.co.nz/git.html
